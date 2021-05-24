@@ -1,0 +1,51 @@
+2 problems a week + flask website
+a place for artist to psot what they make
+post
+need website
+
+Step 1 home page
+Add bootstrap-done
+fix all links and images in index.html
+Create a page layout
+some artwork to show on home page
+you need to show some good artwork pictures on home page
+step 1.1 Create a page 1
+
+Step 2 Show pages with art
+
+Step 3 Create a page to add art
+
+Step 4 Create a page to edit art
+
+Step 5 Page to delete art
+
+Step 6 page to show list of artists
+
+Step 7 Create Account page for artist to sign up 
+
+Step 8 create an artist login page
+
+Step 9 create an artist logout page ]
+
+
+
+
+
+
+
+u need flask, html, css, pictures plus  need sql/mongddb
+u need to understand pymongo
+
+need ton create page for artist to reset their pwd if they forget one
+logo for the website
+you need name of website
+bootstrap it
+
+functions
+
+change paths for base.html and blog.html
+2 questions
+
+change paths for all files+
+
+write jinja website: type anynumber and show multiplication table in images
